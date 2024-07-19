@@ -1,1 +1,2 @@
-# vsc_offline
+# VSCode offline installation for airgapped systems
+
